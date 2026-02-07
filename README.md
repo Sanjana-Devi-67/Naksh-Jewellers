@@ -207,12 +207,6 @@ Cart state is managed using **React Context API**, allowing global cart access a
 
 Backend uses `.env` file.
 
-### Example:
-
-```
-PORT=5000
-```
-
 ---
 
 ## 📦 Data Storage
