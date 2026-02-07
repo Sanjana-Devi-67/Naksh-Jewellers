@@ -1,0 +1,19 @@
+[
+  { "id": 1, "name": "Temple Gold Necklace", "price": 85000, "image": "/images/necklace1.jpeg" },
+  { "id": 2, "name": "Bridal Gold Necklace", "price": 92000, "image": "/images/necklace2.jpeg" },
+  { "id": 3, "name": "Choker Gold Necklace", "price": 78000, "image": "/images/necklace3.webp" },
+  { "id": 4, "name": "Traditional Gold Necklace", "price": 89000, "image": "/images/necklace4.jpg" },
+  { "id": 5, "name": "Antique Gold Necklace", "price": 96000, "image": "/images/necklace5.webp" },
+
+  { "id": 6, "name": "Classic Gold Ring", "price": 20000, "image": "/images/ring1.jpeg" },
+  { "id": 7, "name": "Floral Gold Ring", "price": 22000, "image": "/images/ring2.jpeg" },
+  { "id": 8, "name": "Minimal Gold Ring", "price": 18000, "image": "/images/ring3.jpeg" },
+  { "id": 9, "name": "Bridal Gold Ring", "price": 25000, "image": "/images/ring4.jpeg" },
+  { "id": 10, "name": "Antique Gold Ring", "price": 27000, "image": "/images/ring5.avif" },
+
+  { "id": 11, "name": "Temple Gold Bangles", "price": 55000, "image": "/images/bangle1.jpeg" },
+  { "id": 12, "name": "Bridal Gold Bangles", "price": 60000, "image": "/images/bangle2.jpeg" },
+  { "id": 13, "name": "Classic Gold Bangles", "price": 48000, "image": "/images/bangle3.jpeg" },
+  { "id": 14, "name": "Antique Gold Bangles", "price": 62000, "image": "/images/bangle4.jpeg" },
+  { "id": 15, "name": "Designer Gold Bangles", "price": 70000, "image": "/images/bangle5.jpeg" }
+]
